@@ -4,4 +4,6 @@ echo "<strong>Olá Mundo! 456</strong>";
 
 echo "OLOCO";
 
+echo "Eita!";
+
 ?>
