@@ -1,5 +1,7 @@
 <?php
 
-echo "<strong>Olá Mundo!</strong>";
+echo "<strong>Olá Mundo! 456</strong>";
+
+echo "OLOCO";
 
 ?>
